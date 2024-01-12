@@ -1,10 +1,11 @@
 
-To do list:
+# To do list:
+## High Priority
 sRNA visualisation package (isomirs, tissue-specific expression, etc)
 
 
 
-Semi-ideas:
+## Semi-ideas:
 Crop price visualisation dashboard from WFP data
 https://glomip.cgiar.org/ - portal for rice product data - how to summarise this?
 
