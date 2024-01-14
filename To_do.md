@@ -4,6 +4,11 @@
 sRNA visualisation package (isomirs, tissue-specific expression, etc)
 
 Genome visualisation figure - genome size, ploidy, chromosome number, Phylogeny (?) all combined into 1 for key crops, livestock, and models
+https://www.ncbi.nlm.nih.gov/books/NBK21120/
+https://en.wikipedia.org/wiki/Genome_size
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.761869/full
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7222
+https://en.wikipedia.org/wiki/Pan-genome
 
 
 ## Semi-ideas:
