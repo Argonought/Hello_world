@@ -3,6 +3,7 @@
 ## High Priority
 sRNA visualisation package (isomirs, tissue-specific expression, etc)
 
+Genome visualisation figure - genome size, ploidy, chromosome number, Phylogeny (?) all combined into 1 for key crops, livestock, and models
 
 
 ## Semi-ideas:
