@@ -21,3 +21,45 @@ Learn GWAS
 DE example for RNA-seq data
 
 DoE example
+
+
+## Requests etc
+Make stack overflow request to understand abline issue on log scale in ggplot
+
+#TURN THE BELOW TO STACK EXCHANGE QUESTIONS------------------------------------
+#Add murder rate as line
+# murders %>%
+#   ggplot(aes(population, total, label = abb)) +
+#   geom_point(aes(color = region), size = 3) +
+#   geom_text(nudge_y = 0.1) +
+#   theme_minimal()  +
+#   labs(title = "US gun murders in 2010") +
+#   xlim(0, NA) +
+#   ylim(0, NA) +
+#   geom_abline(slope=r, intercept=0, lty=2, color="black") 
+# #FIXED - key thing was making sure origin is plotted using xlim
+# #however this also removes the log scale
+# 
+# #Also tried putting axes on log scale and changing intercept to 
+# #small (non-zero) number 0.0001, but this didn't work
+# murders %>%
+#   ggplot(aes(population, total, label = abb)) +
+#   geom_point(aes(color = region), size = 3) +
+#   geom_text(nudge_y = 0.1) +
+#   theme_minimal()  +
+#   geom_abline(slope=r, intercept=0.0001, lty=2, color="black") +
+#   labs(title = "US gun murders in 2010") +
+#   scale_x_log10() +
+#   scale_y_log10() 
+# 
+# # The below works, by transforming the co-ordinates instead!!!
+# #Seems to relate to this (unresolved) 
+# # bug https://github.com/tidyverse/ggplot2/issues/46
+# murders %>%
+#   ggplot(aes(population, total, label = abb)) +
+#   geom_point(aes(color = region), size = 3) +
+#   geom_text(nudge_y = 0.1) +
+#   theme_minimal()  +
+#   geom_abline(slope=r, intercept=0.0001, lty=2, color="black") +
+#   labs(title = "US gun murders in 2010") +
+#   coord_trans(y="log10", x="log10")
