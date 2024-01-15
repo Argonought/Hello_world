@@ -1,6 +1,10 @@
 
 # To do list:
 ## High Priority
+Bioconductor analyses (R)
+
+Biopython or biotite (Python)
+
 sRNA visualisation package (isomirs, tissue-specific expression, etc)
 
 Genome visualisation figure - genome size, ploidy, chromosome number, Phylogeny (?) all combined into 1 for key crops, livestock, and models
