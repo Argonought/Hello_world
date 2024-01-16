@@ -25,6 +25,8 @@ Learn GWAS
 Visualise features of different sequencing technologies (and cartoons of how they work)
 https://www.genengnews.com/topics/omics/what-will-2024-mean-for-ngs-and-genomics/
 
+Reference dashboard/interactive for selection genes - pick gene, then see what organisms, what types of selective agent they work on, etc.
+
 DE example for RNA-seq data
 
 DoE example
