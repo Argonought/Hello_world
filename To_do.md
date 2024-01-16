@@ -22,6 +22,9 @@ https://glomip.cgiar.org/ - portal for rice product data - how to summarise this
 Learn GWAS
   If data from Microbiome homeostasis on rice leaves is regulated by a precursor molecule of lignin biosynthesis is available, this would be cool and has a link to metabolomics as well
 
+Visualise features of different sequencing technologies (and cartoons of how they work)
+https://www.genengnews.com/topics/omics/what-will-2024-mean-for-ngs-and-genomics/
+
 DE example for RNA-seq data
 
 DoE example
