@@ -33,6 +33,8 @@ DE example for RNA-seq data
 
 DoE example
 
+Get data of post office prosecutions, and amount stolen, age, race.
+
 
 ## Requests etc
 Make stack overflow request to understand abline issue on log scale in ggplot
