@@ -35,6 +35,9 @@ DoE example
 
 Get data of post office prosecutions, and amount stolen, age, race.
 
+Conway's game of life
+  Then - with evolving rules?
+
 
 ## Requests etc
 Make stack overflow request to understand abline issue on log scale in ggplot
