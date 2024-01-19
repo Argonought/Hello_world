@@ -25,6 +25,8 @@ Learn GWAS
 Visualise features of different sequencing technologies (and cartoons of how they work)
 https://www.genengnews.com/topics/omics/what-will-2024-mean-for-ngs-and-genomics/
 
+Reference graph showing crop yields, calories, nutrients per Ha (average), with years of intense research effort
+
 Reference dashboard/interactive for selection genes - pick gene, then see what organisms, what types of selective agent they work on, etc.
 
 http://tolweb.org/tree/home.pages/aboutoverview.html - check bottom of page for attempts to visualise the tree of life
