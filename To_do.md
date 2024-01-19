@@ -25,6 +25,8 @@ Learn GWAS
 Visualise features of different sequencing technologies (and cartoons of how they work)
 https://www.genengnews.com/topics/omics/what-will-2024-mean-for-ngs-and-genomics/
 
+Visualisation of N application for UK crops - https://www.sruc.ac.uk/media/eeelqian/tn731-nitrogen-recommendations-for-cereals-oilseed-rape-and-potatoes-update-31-10-2022.pdf
+
 Reference graph showing crop yields, calories, nutrients per Ha (average), with years of intense research effort
 
 Reference dashboard/interactive for selection genes - pick gene, then see what organisms, what types of selective agent they work on, etc.
