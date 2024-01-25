@@ -3,6 +3,8 @@
 ## High Priority
 Bioconductor analyses (R)
 
+Download and run either Mirge or BCBio sRNA analysis for an alga
+
 Biopython or biotite (Python)
 
 sRNA visualisation package (isomirs, tissue-specific expression, etc)
