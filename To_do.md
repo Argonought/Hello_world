@@ -31,6 +31,8 @@ Visualisation of N application for UK crops - https://www.sruc.ac.uk/media/eeelq
 
 Reference graph showing crop yields, calories, nutrients per Ha (average), with years of intense research effort
 
+Something with ref quality genomes - https://www.nature.com/articles/s41587-023-02100-3.epdf?sharing_token=siJsl5G1GtZx4CdbXPlJq9RgN0jAjWel9jnR3ZoTv0NY_ubIAUOuSIaplQO7PxPxVH9EsfZr8kDlIzllKz52RE6fKpGkDeL1iR74azGiVtbsSEzE82YzsruF0faIgofWINM7LDgh-EVE9Yak6YVPiDe1s04ghb55P6ZIMrIXsbs%3D
+
 Reference dashboard/interactive for selection genes - pick gene, then see what organisms, what types of selective agent they work on, etc.
 
 http://tolweb.org/tree/home.pages/aboutoverview.html - check bottom of page for attempts to visualise the tree of life
