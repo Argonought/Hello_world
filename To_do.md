@@ -18,6 +18,11 @@ https://en.wikipedia.org/wiki/Pan-genome
 
 
 ## Semi-ideas:
+Use alphafold APIs (see paper in mendeley comp tools) to make python script to download protein structures from list of accessions
+Bonus to this - see if alphafold has the accession. If so download. If not, ncbi blast API to find relatives. Take top X and search alphafold for those.
+
+Use python to regex for specific molecules in genome scale metabolic models
+
 Crop price visualisation dashboard from WFP data
 https://glomip.cgiar.org/ - portal for rice product data - how to summarise this?
 
